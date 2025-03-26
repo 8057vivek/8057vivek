@@ -23,21 +23,12 @@ Welcome to my GitHub profile! I'm passionate about Data Science. Here's a little
 - Supervised Learning (Regression, Classification)
 - Unsupervised Learning (Clustering, PCA)
 - K-Nearest Neighbors, Decision Trees, Random Forests
-- TensorFlow, Keras, scikit-learn
-
+- 
 ### 🌐 Web Development:
 - Frontend: HTML, CSS, JavaScript
 
 ## 📈 Projects
 
-### 1. [Data Analysis on Diamond Dataset](link_to_project)
-Exploring and visualizing diamond pricing using R's ggplot2.
-
-### 2. [Web Scraper with Python](link_to_project)
-A Python script that scrapes websites for data and saves it in a structured format.
-
-### 3. [Machine Learning Model for Predicting Housing Prices](link_to_project)
-Building a regression model to predict house prices using various features.
 
 ## 🛠️ Tools & Technologies
 - **Version Control:** GitHub
