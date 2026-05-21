@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub! I'm **Vivek Baghel**, a passionate **Data Analyst & Fullstack Developer**.  
+Welcome to my GitHub! I'm **Vivek Baghel**, a passionate **Data Engineer & Fullstack Developer**.  
 I love combining **data insights** with modern **web applications** to solve real-world problems, automate boring stuff, and create intuitive user experiences.
 
 ---
